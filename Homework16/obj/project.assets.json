@@ -3440,11 +3440,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Skillbox\\MyHomeworks\\Homework16\\Homework16\\Homework16.csproj",
+      "projectUniqueName": "C:\\Users\\Александр\\Source\\Repos\\Project16\\Homework16\\Homework16.csproj",
       "projectName": "Homework16",
-      "projectPath": "C:\\Skillbox\\MyHomeworks\\Homework16\\Homework16\\Homework16.csproj",
+      "projectPath": "C:\\Users\\Александр\\Source\\Repos\\Project16\\Homework16\\Homework16.csproj",
       "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
-      "outputPath": "C:\\Skillbox\\MyHomeworks\\Homework16\\Homework16\\obj\\",
+      "outputPath": "C:\\Users\\Александр\\Source\\Repos\\Project16\\Homework16\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

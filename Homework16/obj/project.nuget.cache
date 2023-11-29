@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pPmXC4KOp8XRHuRZmxpmALQWsYLOitxk+1mKDRyI4SXYKxqVELvcV5HNyLOwzaLdDEho+tlCQQ+kx4AokbWGCQ==",
+  "dgSpecHash": "BAvF/4SJcgxyCPMuh87B3Jn/lCnXgkjZFsegNHWW00fiIA95wL2EfcpfgFpNmgkalGsVozIDMcLO7rcbktF19w==",
   "success": true,
-  "projectFilePath": "C:\\Skillbox\\MyHomeworks\\Homework16\\Homework16\\Homework16.csproj",
+  "projectFilePath": "C:\\Users\\Александр\\source\\repos\\Project16\\Homework16\\Homework16.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Александр\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Александр\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
